@@ -1,0 +1,5 @@
+[30-Apr-2019 12:47:39 UTC] PHP Parse error:  syntax error, unexpected '=', expecting end of file in /home/fh513m1e4m0z/public_html/travelagency/suport.php on line 54
+[30-Apr-2019 12:47:43 UTC] PHP Parse error:  syntax error, unexpected '=', expecting end of file in /home/fh513m1e4m0z/public_html/travelagency/suport.php on line 54
+[30-Apr-2019 12:48:18 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fh513m1e4m0z/public_html/travelagency/PHPMailerAutoload.php on line 45
+[30-Apr-2019 12:49:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fh513m1e4m0z/public_html/travelagency/PHPMailerAutoload.php on line 45
+[30-Apr-2019 12:56:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/fh513m1e4m0z/public_html/travelagency/PHPMailerAutoload.php on line 45
